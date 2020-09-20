@@ -110,3 +110,4 @@ YouTube Liveを1.5倍速で流しながら見ていきます（個別に再生�
 - ソフトウェアRadio
 - Sphinx
 - PythonときどきRust
+- Django + SQLAlchemy
