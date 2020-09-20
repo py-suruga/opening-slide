@@ -73,3 +73,40 @@ PyCon JPのCoCの準拠もお願いします
 
 <!-- 毎回の内容は以下より -->
 
+---
+
+### 本日の内容
+
+Unagi.py #33 Python駿河 #17
+
+2020/09/20（日）
+
+---
+
+### PyCon JP 2020 トーク振り返り
+
+面白かった、まだ見ていないトーク/スライドを一緒に見ながら感想など色々言い合う会です
+
+YouTube Liveを1.5倍速で流しながら見ていきます（個別に再生もOKです）
+
+---
+
+# スケジュール
+
+- 20:00 オープニング
+- 20:15 アイスブレイク/自己紹介
+- 20:20 スタート
+- 22:00 終了・オンライン懇親会
+
+---
+
+アンケートから候補
+
+[スプレッドシートのまとめ](https://docs.google.com/spreadsheets/d/1VMVQ1qK_bhdrgThDCzUhTGA4qzzGQtp6hDyq-1FeGXI/edit?usp=sharing)
+
+- キーノート２日目
+- 野球選手の成績予測
+- unittest.mock
+- ソフトウェアRadio
+- Sphinx
+- PythonときどきRust
