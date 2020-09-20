@@ -41,8 +41,8 @@ PyCon JPのCoCの準拠もお願いします
 
 ぜひご参加ください
 
-- この勉強会の連絡手段はSlackを使います。
-- ハンズオンやトークを行ったときの質問でも利用しています
+- この勉強会の連絡手段はSlackを使います
+- ハンズオンやトーク時の質問にも利用
 
 - [Python駿河 Slack招待URL](https://join.slack.com/t/py-suruga/shared_invite/zt-811b9pwj-R_RbCmlTlV4B5iVKxF5gfA)
 - [Unagi.py Slack招待URL](https://join.slack.com/t/unagi-py/shared_invite/zt-88t327i8-YHsIV~uWX313LPAaJDR9~Q)
