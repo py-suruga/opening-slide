@@ -3,8 +3,8 @@
 
 <!-- logo -->
 
-![pysuruga logo](assets\img\python-suruga_logo.png)
-![unagipy logo](assets\img\unagi-py_logo.png)
+![pysuruga logo](assets/img/python-suruga_logo.png)
+![unagipy logo](assets/img/unagi-py_logo.png)
 
 ---
 
