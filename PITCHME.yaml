@@ -1,0 +1,12 @@
+
+theme : night
+
+theme-headline   : [ "Roboto", "#eee", "none", "eee", "120"]
+theme-links      : [ "#5289F7", "#5254F7" ]
+theme-code       : [ "Source Code Pro", "150" ]
+
+# layout: center-left
+
+highlight: ir-black
+
+controls-layout: edges
