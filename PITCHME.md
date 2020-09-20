@@ -91,7 +91,7 @@ YouTube Liveを1.5倍速で流しながら見ていきます（個別に再生�
 
 ---
 
-# スケジュール
+### スケジュール
 
 - 20:00 オープニング
 - 20:15 アイスブレイク/自己紹介
@@ -99,8 +99,6 @@ YouTube Liveを1.5倍速で流しながら見ていきます（個別に再生�
 - 22:00 終了・オンライン懇親会
 
 ---
-
-アンケートから候補
 
 [スプレッドシートのまとめ](https://docs.google.com/spreadsheets/d/1VMVQ1qK_bhdrgThDCzUhTGA4qzzGQtp6hDyq-1FeGXI/edit?usp=sharing)
 
