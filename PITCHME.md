@@ -100,6 +100,8 @@ YouTube Liveを1.5倍速で流しながら見ていきます（個別に再生�
 
 ---
 
+アンケートからの一覧
+
 [スプレッドシートのまとめ](https://docs.google.com/spreadsheets/d/1VMVQ1qK_bhdrgThDCzUhTGA4qzzGQtp6hDyq-1FeGXI/edit?usp=sharing)
 
 - キーノート２日目
